@@ -144,11 +144,8 @@ Temperature data are acquired at a fixed rate (1 Hz) and transmitted via BLE not
 
 For vibration monitoring, the accelerometer operates in FIFO mode at high sampling frequency. The firmware processes acceleration windows using NanoEdge AI to determine whether the observed behavior is consistent with normal operation or represents an anomalous condition. A dynamic filtering mechanism is applied to avoid false positives during still phases. The resulting anomaly state is periodically transmitted over BLE, and visual feedback is provided through onboard LEDs.
 
----
-
-## Applications
-
 This system is suitable for vibration and environmental monitoring scenarios where low power consumption and wireless connectivity are required. Typical use cases include industrial condition monitoring, predictive maintenance, structural vibration analysis, earthquake detection prototypes, and embedded edge AI experimentation.
+
 ---
 
 ## Firmware Flashing
@@ -178,4 +175,5 @@ After flashing, reset the board and verify:
 - Temperature and anomaly characteristics are exposed  
 
 Refer to the full technical report for detailed configuration and deployment instructions.
+
 ---
