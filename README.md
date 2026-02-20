@@ -121,7 +121,7 @@ Y --> Z[Update BLE Characteristic]
 Z --> AA[Send Notification via GATT]
 
 AA --> G
-
+```
 --
 
 ## NanoEdge AI Workflow
