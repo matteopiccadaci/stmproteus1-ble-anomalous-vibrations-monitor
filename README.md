@@ -76,6 +76,7 @@ Any changes to the configuration will require the training of a new model using 
 The following diagram summarizes the IMU acquisition, AI processing, and BLE transmission pipeline.
 
 ```mermaid
+
 flowchart TD
 
 A[System Initialization] --> B[Initialize ISM330DHCX]
