@@ -1,4 +1,4 @@
-# STM STEVAL-PROTEUS1 BLE Anomalous vibrations environmemtal monitor
+# STM STEVAL-PROTEUS1 BLE Anomalous vibrations environmental monitor
 
 Embedded firmware project for the [**STEVAL-PROTEUS1**](https://www.st.com/en/evaluation-tools/steval-proteus1.html) board implementing:
 
