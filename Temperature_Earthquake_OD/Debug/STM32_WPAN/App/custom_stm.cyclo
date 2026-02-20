@@ -1,0 +1,4 @@
+../Middlewares/ST/STM32_WPAN/ble/core/ble_legacy.h:322:12:aci_gatt_allow_read	1
+../STM32_WPAN/App/custom_stm.c:40:30:Custom_STM_Event_Handler	9
+../STM32_WPAN/App/custom_stm.c:111:6:Custom_STM_Init	4
+../STM32_WPAN/App/custom_stm.c:196:12:Custom_STM_Update_Char	3

@@ -1,0 +1,39 @@
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:48:16:stts22h_read_reg	40	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:69:16:stts22h_write_reg	40	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:92:9:stts22h_from_lsb_to_celsius	16	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:118:9:stts22h_temp_data_rate_set	32	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:199:9:stts22h_temp_data_rate_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:256:9:stts22h_block_data_update_set	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:280:9:stts22h_block_data_update_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:297:9:stts22h_temp_flag_data_ready_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:339:9:stts22h_temperature_raw_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:371:9:stts22h_dev_id_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:388:9:stts22h_dev_status_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:421:9:stts22h_smbus_interface_set	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:446:9:stts22h_smbus_interface_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:482:9:stts22h_auto_increment_set	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:507:9:stts22h_auto_increment_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:537:9:stts22h_temp_trshld_high_set	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:563:9:stts22h_temp_trshld_high_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:583:9:stts22h_temp_trshld_low_set	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:609:9:stts22h_temp_trshld_low_get	24	static
+/Users/matteopiccadaci/Desktop/Università/Magistrale/Embedded Systems/Progetto/Temperature_Earthquake/User/Drivers/BSP/../../Drivers/BSP/Components/stts22h/stts22h_reg.c:629:9:stts22h_temp_trshld_src_get	24	static
+../STM32_WPAN/App/custom_app.c:116:6:Custom_STM_App_Notification	16	static
+../STM32_WPAN/App/custom_app.c:152:6:Custom_APP_Notification	16	static
+../STM32_WPAN/App/custom_app.c:177:6:Custom_APP_Init	8	static
+../STM32_WPAN/App/custom_app.c:191:6:Custom_APP_Process	8	static
+../STM32_WPAN/App/custom_app.c:203:6:Custom_APP_Send_Anomaly	24	static
+../STM32_WPAN/App/custom_app.c:234:13:Custom_Temp_val_Update_Char	16	static
+../STM32_WPAN/App/custom_app.c:244:6:Custom_Temp_val_Send_Notification	16	static
+../STM32_WPAN/App/custom_app.c:256:13:Custom_Eq_anom_Update_Char	8	static
+../STM32_WPAN/App/custom_app.c:264:6:Custom_Eq_anom_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:272:13:Custom_TempNotify_Second	16	static
+../STM32_WPAN/App/custom_app.c:283:13:STTS22H_InitOnce	16	static
+../STM32_WPAN/App/custom_app.c:319:14:STTS22H_ReadTempC	32	static
+../STM32_WPAN/App/custom_app.c:372:16:stts22h_platform_write	48	static
+../STM32_WPAN/App/custom_app.c:393:16:stts22h_platform_read	48	static
+../STM32_WPAN/App/custom_app.c:414:13:stts22h_platform_delay	16	static
+../STM32_WPAN/App/custom_app.c:419:13:pack_i16_le	16	static
+../STM32_WPAN/App/custom_app.c:425:13:pack_i16_be	16	static
+../STM32_WPAN/App/custom_app.c:431:16:STTS22H_TryBusAddr	40	static
+../STM32_WPAN/App/custom_app.c:461:16:STTS22H_Probe	32	static

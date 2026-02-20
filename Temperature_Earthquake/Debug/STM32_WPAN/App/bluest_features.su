@@ -1,0 +1,7 @@
+../Middlewares/ST/STM32_WPAN/ble/core/ble_legacy.h:322:12:aci_gatt_allow_read	16	static
+../STM32_WPAN/App/bluest_features.c:48:13:Store_LE_16	16	static
+../STM32_WPAN/App/bluest_features.c:54:13:Store_LE_32	16	static
+../STM32_WPAN/App/bluest_features.c:62:30:BlueST_Event_Handler	40	static
+../STM32_WPAN/App/bluest_features.c:108:6:BlueST_Init	56	static
+../STM32_WPAN/App/bluest_features.c:163:6:BlueST_Update_Env	32	static
+../STM32_WPAN/App/bluest_features.c:180:6:BlueST_Update_AD	48	static

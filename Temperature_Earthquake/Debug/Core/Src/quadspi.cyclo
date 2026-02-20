@@ -1,0 +1,6 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:744:22:LL_AHB3_GRP1_EnableClock	1
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:798:22:LL_AHB3_GRP1_DisableClock	1
+../Core/Src/quadspi.c:30:6:MX_QUADSPI_Init	2
+../Core/Src/quadspi.c:57:6:HAL_QSPI_MspInit	2
+../Core/Src/quadspi.c:117:6:HAL_QSPI_MspDeInit	2
