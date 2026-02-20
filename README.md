@@ -155,10 +155,10 @@ The compiled firmware must be flashed to the board using the generated `.hex` fi
 Two firmware variants are provided in this repository:
 
 - Outlier Detection firmware  
-  [`/firmware/outlier_detection.hex`](./firmware/outlier_detection.hex)
+  [`Temperature_Earthquake_OD.hex`](.Temperature_Earthquake_OD/Debug/Temperature_Earthquake_OD.hex)
 
 - Anomaly Detection firmware  
-  [`/firmware/anomaly_detection.hex`](./firmware/anomaly_detection.hex)
+  [`Temperature_Earthquake.hex`](.Temperature_Earthquake/Debug/Temperature_Earthquake.hex)
 
 ### Flashing Procedure
 
